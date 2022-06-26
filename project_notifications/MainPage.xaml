@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             BackgroundColor="#E2E2E9"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="project_notifications.MainPage">
+    <StackLayout>
+        <Label Text="Ställ in vilka tider du vill bli påmind" FontSize="Large" TextColor="#000000"/>
+        <TimePicker x:Name="firstTime"
+                    Time="09:00:00"
+                    Format="HH:mm"
+                    PropertyChanged="OnTimePickerPropertyChanged" TextColor="#000000" />
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Aktivera påminnelser:" TextColor="#000000" />
+            <Switch x:Name="_switch"
+                    HorizontalOptions="EndAndExpand"
+                    Toggled="OnSwitchToggled" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\bin\Debug\netstandard2.0\project_notifications.deps.json
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\bin\Debug\netstandard2.0\project_notifications.dll
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\bin\Debug\netstandard2.0\ref\project_notifications.dll
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\bin\Debug\netstandard2.0\project_notifications.pdb
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.AssemblyInfoInputs.cache
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.AssemblyInfo.cs
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.csproj.CoreCompileInputs.cache
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.dll
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\ref\project_notifications.dll
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.pdb
+D:\Users\Patrik\source\repos\project_notifications\project_notifications\project_notifications\obj\Debug\netstandard2.0\project_notifications.csproj.AssemblyReference.cache
